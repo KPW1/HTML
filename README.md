@@ -18,5 +18,4 @@ As the `source` file is too large for [GitHub's blame utility](https://help.gith
 
 
 
-![picture art]
-https://raw.githubusercontent.com/KPW1/html/main/sun.png
+![picture art](https://raw.githubusercontent.com/KPW1/html/main/sun.png)
